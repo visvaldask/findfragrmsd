@@ -5,7 +5,8 @@ A more detailed description:
 v0.1
 a very clunky way (but it works) to superpose  
 docked ligand onto reference fragment/scaffold
-Prerequisites: DockRMSD in the path (https://zhanggroup.org//DockRMSD/)
+Prerequisites: 
+DockRMSD in the path (https://zhanggroup.org//DockRMSD/)
 openbabel in the path
 RDKit installed
 Notes: 1. change the command 
