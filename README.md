@@ -1,5 +1,5 @@
 findfragrmsd
-calculates RMSD between the docked ligand and some fragment/scaffold. The fragment is only a part of ligand.
+calculates RMSD between the docked ligand and some reference fragment/scaffold. The fragment is only a subset of the ligand.
 
 A more detailed description:
 v0.1
